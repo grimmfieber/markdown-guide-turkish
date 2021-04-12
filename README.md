@@ -3,21 +3,21 @@
 
  > **Markdown** veya githubda bilinen kısaltmasıyla `.md`, kendine ait syntaxı olan bir metin editörüdür.
 
-# Nerede ve Nasıl kullanırım?
+## Nerede ve Nasıl kullanırım?
 Bu yazıyı github profilimden okuduğunuzu ve yazının `.md` olarak yazıldığını düşünürseniz, githubda proje açıklamalarında standartlaşmış hale geldiğinden yoğun bir kullanıma sahiptir. Projenizi yüklediğinizde **README.md** olarak beliren `.md` uzantılı dosyaya yazdığın Markdown komutları projenizin açıklamasında aktif olacaktır.
 
-# Daha iyi bir Markdown aracı ? 
+## Daha iyi bir Markdown aracı ? 
 Markdown'ı yazarken kullandığımız syntaxın çıktısını görerek çalışmamız, bizim için daha kolay ve verimli olacaktır. Bunun için Dillinger gibi siteler işinizi görecektir tabi ki masaüstü için Markup editörleri olduğunu da hatırlatırım.
 
 **İlk denemenizin nasıl göründüğünü görerek yazmak isterseniz..**
 >[Dillinger](https://www.dillinger.io)
 *Dillingerda sol tarafa yazıp sağ tarafta değişimi gözlemleyebilirsiniz.*
 
-# Neden Markdown?
+## Neden Markdown?
 > Basit bir yazı için bile HTML kullanmaktansa, markdown kullanarak yazdıklarınızı HTML'e veya PDF'e dönüştürebilirsiniz.
 __Taşınılabilir oluşundan tutun, günümüz firmalarının çoğunun destekliyor oluşu da markdown kullanmanın faydalı olabileceğini gösterir.__
 
-# Syntaxı zor mu?
+## Syntaxı zor mu?
 > Elbette office yazılımlarındaki word gibi editörlere alışık olan bünyeler için ilk başta karışık gelebilir, **fakat HTML'den kat kat anlaşılabilir** bir syntaxa sahip ve her çevreden insanın kullanabileceği düzeyde **basit bir syntaxa sahip olduğu için standardizasyona daha açık** denebilir. 
 ## Ne kadar mı basit?
 > **Bu yazıyı ilk defa dokümentasyona bakarak yazıyorum.** 
@@ -47,7 +47,7 @@ __Taşınılabilir oluşundan tutun, günümüz firmalarının çoğunun destekl
 >`<h6>Başlık 6</h6>` ~HTML kodu~
 
 ---
-## Paragraf
+### Paragraf
 
 > Editörünüze hiçbir şey eklemeden sadece yazarak paragrafları yazabilirsiniz, HTML'in aksine `<p>` etiketine gerek yoktur.
 
@@ -64,7 +64,7 @@ __Taşınılabilir oluşundan tutun, günümüz firmalarının çoğunun destekl
 ---
 
 
-## Blockquotelar
+### Blockquotelar
 
 **blockquote yazmak için: `>` sembolünü kullanın.**
 
@@ -74,7 +74,7 @@ Bu bir blockquote yazım örneği değildir.
 
 --- 
 
-## Nested (gömülü) Blockquotelar
+### Nested (gömülü) Blockquotelar
 > Blockquote oluşturmak için `>` karakterini kullanmamız gerekiyor
 > Sonraki satıra başlarken de başına `>` ekliyoruz 
 >> Nested yapmak istediğimiz blockquote için istenilen satıra `>>` ile başlıyoruz.
@@ -86,13 +86,13 @@ Bu bir blockquote yazım örneği değildir.
 ---
 
 
-## Sıralı Liste
+### Sıralı Liste
 1. ilk sıra
 2. ikinci sıra
 3. üçüncü sıra
 4. dördüncü sıra
 
-#### Nasıl?
+##### Nasıl?
 > Çok basit bir şekilde metine liste sırasıyla başlayın.
  >> örneğin 
 >`1. ilk sıra`
@@ -102,17 +102,17 @@ Bu bir blockquote yazım örneği değildir.
 
 ---
 
-## Sırasız liste
+### Sırasız liste
 - ilk sıra
 - ikinci sıra
 - üçüncü sıra
 
-#### Nasıl
+##### Nasıl
 >Basit bir şekilde sıraya alacağınız kelimenin başına `-` karakterini ekleyin.
 
 ---
 
-## Kod eklemek
+### Kod eklemek
 
 > bunun için "``" karakterini kullanıyoruz.
 Bu karaktere Türkçe klavyede `alt gr`+`,` iki kere basarak ulaşabilirsiniz.
@@ -120,12 +120,12 @@ Bu kod bloğu içinde kalan kısımlar `bu şekilde gözükecektir.`
 
 ---
 
-## Yatay çizgiler
+### Yatay çizgiler
 > **Maddeler arası, aynen bu metinde çektiğim gibi çizgiler çekmek için `---` karakterini tuşlayın.**
 
 ---
 
-## Tıklanabilir Link eklemek
+### Tıklanabilir Link eklemek
 
 **`[kullanıcı tıklarken görünecek kelime](https://www.yönlendirmesiİstenenSiteninAlanAdı.com)`**
 
@@ -136,7 +136,7 @@ _**[profilim](https://www.github.com/grimmfieber)**_
 
 ---
 
-## Metine görsel ekleme
+### Metine görsel ekleme
  
  Bunun için ekleyeceğimiz görselin adresini kopyalamalı ve "(adres)" olacak şekilde parantez içine yapıştırmalıyız.
  
@@ -148,7 +148,7 @@ _**[profilim](https://www.github.com/grimmfieber)**_
  
 ---
 
-## Tablolar
+### Tablolar
 | Syntax      | Açıklama | Test Text     |
 | :---        |    :----:   |          ---: |
 | Başlık      | Başlık     | içerik  |
@@ -161,6 +161,7 @@ _**[profilim](https://www.github.com/grimmfieber)**_
 | Başlık      | Başlık     | içerik  |
 | Paragraf   | Metin        | ve fazlası      |`
 
+---
 
 
 
