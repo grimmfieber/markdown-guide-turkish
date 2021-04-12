@@ -4,9 +4,9 @@
  > **Markdown** veya githubda bilinen kısaltmasıyla `.md`, kendine ait syntaxı olan bir metin editörüdür.
 
 ### Nerede ve Nasıl kullanırım?
-Bu yazıyı github profilimden okuduğunuzu ve yazının `.md` olarak yazıldığını düşünürseniz, githubda proje açıklamalarında standartlaşmış hale geldiğinden yoğun bir kullanıma sahiptir. Projenizi yüklediğinizde **README.md** olarak beliren `.md` uzantılı dosyaya yazdığın Markdown komutları projenizin açıklamasında aktif olacaktır.
+Bu yazıyı github profilimden okuduğunuzu ve yazının `.md` olarak yazıldığını düşünürseniz, githubda proje açıklamalarında standartlaşmış hale geldiğinden yoğun bir kullanıma sahiptir. Projenizi yüklediğinizde **README.md** olarak beliren `.md` uzantılı dosyaya yazdığınız Markdown komutları projenizin açıklamasında aktif olacaktır.
 
-### Daha iyi bir Markdown aracı ? 
+### Daha iyi bir Markdown aracı? 
 Markdown'ı yazarken kullandığımız syntaxın çıktısını görerek çalışmamız, bizim için daha kolay ve verimli olacaktır. Bunun için Dillinger gibi siteler işinizi görecektir tabi ki masaüstü için Markup editörleri olduğunu da hatırlatırım.
 
 **İlk denemenizin nasıl göründüğünü görerek yazmak isterseniz..**
