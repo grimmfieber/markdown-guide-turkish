@@ -144,7 +144,7 @@ _**[profilim](https://www.github.com/grimmfieber)**_
  
  > **örnek olarak :** ![görsel bozuk](image.jpg)
  
- > **örnek olarak :** ![linki aldığımda çalışıyordu](https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png =100px)
+ > **örnek olarak :** ![linki aldığımda çalışıyordu](https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
  
 ---
 
