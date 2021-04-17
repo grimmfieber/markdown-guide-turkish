@@ -2,7 +2,7 @@
 # Markdown nedir?
 
  > **Markdown** veya githubda bilinen kısaltmasıyla `.md`, kendine ait syntaxı olan bir metin editörüdür.
-
+![görsel bozuk](https://resources.jetbrains.com/help/img/idea/2020.3/markdown-basics.png)
 ### Nerede ve Nasıl kullanırım?
 Bu yazıyı github profilimden okuduğunuzu ve yazının `.md` olarak yazıldığını düşünürseniz, githubda proje açıklamalarında standartlaşmış hale geldiğinden yoğun bir kullanıma sahiptir. Projenizi yüklediğinizde **README.md** olarak beliren `.md` uzantılı dosyaya yazdığınız Markdown komutları projenizin açıklamasında aktif olacaktır.
 
@@ -23,7 +23,7 @@ __Taşınılabilir oluşundan tutun, günümüz firmalarının çoğunun destekl
 > **Bu yazıyı ilk defa dokümentasyona bakarak yazıyorum.** 
 >> __*Orijinal dokümentasyondaki bilgileri Türkçeleştirerek özetlemek istedim.*__
 
-![görsel bozuk](https://resources.jetbrains.com/help/img/idea/2020.3/markdown-basics.png)
+
 
 ---
 ### Başlıklar
